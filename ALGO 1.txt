@@ -1,0 +1,30 @@
+A= 65 Z=90  a=97 z=122
+
+14 int  	20 int 		'B' char
+'start text' char	'Z' char	67.5 double 
+-50.0 double  5.0 double	5.0 double
+1 int 		4 int		5 int
+0 int 		2.5double	2.0double
+0.5double	racine de 11 double 	7.0 Double
+
+
+true			false	true ou erreur
+true			false	true
+true ou erreur	false	true
+
+false	true	true
+true	true	???
+true	false
+
+
+
+ax < x1 && ay > y2
+ax > x1 && ax < x2 && ay > y2
+ax > x2 && ay > y2
+ax > x2 && ay < y2 && ay > y1
+ax > x2 && ay < y1
+ax > x1 && ax < x2 && ay < y1
+ax < x1 && ay < y1
+ax < x1 && ay > y1 && ay < y2
+ax > x1 && ax < x2 && ay > y1 && ay<y2 
+
